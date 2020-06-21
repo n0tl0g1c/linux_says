@@ -1,0 +1,20 @@
+#!/bin/bash
+clear
+echo "insert text: "
+read text
+echo "         _nnnn_                      "
+echo "        dGGGGMMb     ,''''''''''''''."
+echo "       @p~qp~~qMb    | $text        |"
+echo "       M|@||@) M|   _;..............'"
+echo "       @,----.JM| -'"
+echo "      JS^\__/  qKL"
+echo "     dZP        qKRb"
+echo "    dZP          qKKb"
+echo "   fZP            SMMb"
+echo "   HZM            MMMM"
+echo "   FqM            MMMM"
+echo " __| ''.        |\dS'qML"
+echo " |    ''        | '  \Zq"
+echo "_)      \.___.,|     .'"
+echo "\____   )MMMMMM|   .'"
+echo "     ''-'       '-' hjm"
